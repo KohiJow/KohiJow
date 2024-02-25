@@ -6,9 +6,6 @@
 
 🌱 Em constante aprendizado para expandir minhas habilidades e contribuir para projetos inovadores.
 
-🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-mateus-firmino-rodrigues-ab8622232/) e confira meus projetos aqui no GitHub!
-
-
 [![Seu Nome](https://github-readme-stats.vercel.app/api?username=KohiJow&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
