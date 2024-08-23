@@ -1,8 +1,8 @@
 ## Eae! Eu sou João Mateus 👋
 
-🚀 Jovem aprendiz em desenvolvimento full-stack.
+🚀 Jovem aprendiz em Tecnologia da Informação.
 
-💻 Atualmente, trabalho no back-end, explorando tecnologias para criar soluções poderosas.
+💻 Atualmente, trabalho com QA usando GLPI, Cursando Desenvolvimento de Software, Sistemas da Informação e Tecnologia da Informação.
 
 🌱 Em constante aprendizado para expandir minhas habilidades e contribuir para projetos inovadores.
 
