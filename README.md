@@ -1,8 +1,8 @@
 ## Eae! Eu sou João Mateus 👋
 
-🚀 Jovem aprendiz em Tecnologia da Informação.
+🚀 Técnico em Testes de Software.
 
-💻 Atualmente, trabalho com QA usando GLPI, Cursando Desenvolvimento de Software, Sistemas da Informação e Tecnologia da Informação.
+💻 Atualmente, trabalho como QA, Cursando Desenvolvimento de Software e Sistemas da Informação.
 
 🌱 Em constante aprendizado para expandir minhas habilidades e contribuir para projetos inovadores.
 
