@@ -2,7 +2,7 @@
 
 🚀 Técnico em Testes de Software.
 
-💻 Atualmente, trabalho como QA, Cursando Desenvolvimento de Software e Sistemas da Informação.
+💻 Atualmente, trabalho como QA, Cursando Desenvolvimento de Software (Técnico) e Sistemas da Informação (Graduação).
 
 🌱 Em constante aprendizado para expandir minhas habilidades e contribuir para projetos inovadores.
 
