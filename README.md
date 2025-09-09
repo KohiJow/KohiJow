@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-I'm João — but you can call me **Kohi**! ☕  
+I'm João — but you can call me **Jow**! ☕  
 Why *Kohi*? It means *coffee* in Japanese — and I love both coffee and coding.  
 If you're into latte art, check out my [Instagram highlights](https://www.instagram.com/firmino.jm?igsh=MTdxeTR6NHgweGZ3NA==) where I share my coffee creations!
 
