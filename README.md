@@ -19,21 +19,25 @@ API and backend testing, automation and CI/CD. ISTQB CTFL certified.
 ### Current project
 
 A platform I run and test: two game server instances sharing one port, an operations bot,
-a status API and a backup routine. It has a quality suite that runs on its own every day
-and publishes the report.
+a status API and a backup routine. The panel below is regenerated every day from the live
+API, including how many people are playing right now.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KohiJow/minecraft-infra-qa/main/reports/painel.svg"
        alt="Platform status, regenerated daily" width="100%">
 </p>
 
-61 automated checks in three layers, sharing one set of helpers:
+62 automated checks in three layers, sharing one set of helpers:
 
-- **API contract** with Playwright and pytest: field types, coherence between fields, cache
-  headers, error paths, and a check that nothing personal leaks through a public port.
-- **Infrastructure and regression** with `unittest` and no dependencies: systemd units, mutual
-  exclusion between services, HTTP `Range` support, static analysis of the bot, backup integrity.
-- **Readable scenarios** in Robot Framework, on top of the same library.
+- **API contract** with Playwright and pytest (12 cases): field types, coherence between
+  fields, cache headers, error paths, and a check that nothing personal leaks through a
+  public port.
+- **Infrastructure and regression** with `unittest` and no dependencies (41 cases): systemd
+  units, mutual exclusion between services, HTTP `Range` support, static analysis of the bot,
+  backup integrity.
+- **Readable scenarios** in Robot Framework (9 cases), on top of the same library.
+
+Runs on GitHub Actions across three Python versions, plus a daily run on the server itself.
 
 Every check came from something that actually broke. I wrote up the root cause of each one in
 [docs/incidents.md](https://github.com/KohiJow/minecraft-infra-qa/blob/main/docs/incidents.md):
